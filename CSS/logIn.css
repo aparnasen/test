@@ -1,0 +1,112 @@
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+    background-color:#f0f3faba;  
+    font-family: 'Arial';  
+}
+section{
+    padding: 0 100px;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+    
+}
+.box{
+    position: relative;
+    max-width: 300px;
+    padding: 50px;
+    background: rgba(2, 2, 2, 0.6);
+    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+} 
+.box h2{
+    margin: 0 0 20px;
+    padding: 0;
+    font-size: 40px;
+    font-family: 'Dancing script', cursive;
+    text-transform: none;
+    color: rgb(255, 255, 255);
+}
+.box h3{
+    margin: 0;
+    padding: 0;
+    font-size: 25px;
+    text-transform: capitalize;
+    color: rgb(255, 255, 255);
+}
+.box p{
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+    color: blanchedalmond;
+    
+} 
+.login{   
+        width: 350px;  
+        overflow: hidden;  
+        margin: 90px;
+        margin-bottom: 15px;  
+        padding: 80px;  
+        background: rgba(143, 143, 143, 0.3); 
+        
+        border-radius: 15px ;   
+}  
+h2{  
+    text-align: center;  
+    color: #000000;  
+    padding: 20px;  
+    font-family: 'Dancing script', cursive;
+}  
+label{  
+    color: #011411;  
+    font-size: 17px;  
+}  
+#Uname{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+#Pass{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+      
+}  
+#log{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color: rgb(255, 255, 255);
+    background-color: blue;  
+  
+  
+}
+#icon{
+    width: 22px;  
+    height: 25px;
+    position: absolute;
+    margin-left: -13px;
+    opacity: .7;
+}  
+#icon1{
+    width: 30px;  
+    height: 35px;
+    padding: 0;
+    margin-bottom: -13px;
+    color: rgb(54, 73, 72, .3);
+}
+span{  
+    color: rgb(10, 10, 10);  
+    font-size: 17px;  
+}  
+a{  
+    float: none;  
+    color: rgb(0, 5, 77);  
+}

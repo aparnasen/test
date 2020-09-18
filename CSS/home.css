@@ -1,0 +1,51 @@
+body  
+{  
+    margin: 0;  
+    padding: 0; 
+    background: wheat; 
+    font-family: sans-serif;  
+    font-weight: 400;
+}
+header{
+    background: rgb(255, 0, 0);
+}  
+nav{
+    float: right;
+}
+nav span{
+    color: #ffffff;  
+    margin: -5px;
+    padding: 0 155px; 
+    font-family: Serif;
+    
+}
+nav ul{
+    margin: 0;  
+    padding: 0; 
+    list-style-type: none; 
+    overflow: hidden;
+    background-color: rgb(51, 51, 51);
+}
+nav li{
+    display: inline;
+    float: left;
+    border-right: 1px solid rgb(187, 187, 187);
+}
+nav li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 50px;
+    text-decoration: none;
+}
+nav li a:hover{
+    background-color: teal;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+.active{
+    background-color: rgb(9, 58, 58);
+}

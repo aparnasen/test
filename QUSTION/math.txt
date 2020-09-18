@@ -1,0 +1,253 @@
+----------------------MATH PUZZLE---------------------------------------
+
+
+Q:1-------B
+How many squares do you see?
+QUS 6
+A) 44	B) 45
+C) 46	D) 50
+ 
+Q:2--------A
+A cuboid shaped wooden block has 6 cm length, 4 cm breadth and 1 cm height.
+Two faces measuring 4 cm x 1 cm are coloured in black.
+Two faces measuring 6 cm x 1 cm are coloured in red.
+Two faces measuring 6 cm x 4 cm are coloured in green.
+The block is divided into 6 equal cubes of side 1 cm (from 6 cm side), 4 equal cubes of side 1 cm(from 4 cm side).
+How many cubes will have green colour on two sides and rest of the four sides having no colour ?
+A) 8	B) 24
+C) 16	D) 4
+
+Q:3--------------A
+If A is substituted by 4, B by 3, C by 2, D by 4, E by 3, F by 2 and so on, then what will be total of the numerical values of the letters of the word SICK?
+A) 11	B) 12
+C) 10	D) 9
+
+Q:4--------(Q-4)
+Two Fathers and Two Sons Riddle
+Two fathers and two sons sat down to eat eggs for breakfast. They ate exactly three eggs, each person had an egg. The riddle is for you to explain how
+ 
+Q:5-------------(Q-5)
+Which number multiplied by itself will give the output as 12345678987654321 ?
+
+Q:6-------------(Q-6)
+Arrange four nines(9) and a one(1) and only one mathematical symbol to make it equal to 100 ?
+
+
+Q:7---------D
+Maths Challenge
+A) 19	B) 38
+C) 22	D) 40
+QUS7
+
+Q:8-------------(Q-8)
+Puzzle : Clock
+Divide the clock's face into three equal parts exactly with two lines. Therefore the sum of the numbers in the three equal parts should be same
+
+Q:9-----------------A
+A number of cats got together and decided to kill between them 999919 rats. Every cat killed an equal number of rats. Each cat killed more rats than there were cats. How many rats do you think that each cat killed ?
+A) 1009	B) 991
+C) 2000	D) 1000
+
+Q:10------------A
+How many letters of the word FAINTS, will their order in the word and that when the letters are arranged in the alphabetical order, remain the same?
+A) Two	B) One
+C) Three	D) Nil
+
+Q:11-----------B
+Find the height of the table?
+QUS-8
+A) 40 cm	B) 150 cm
+C) 120 cm	D) 45 cm
+
+Q:12----------(Q-12)
+Solve the following puzzle
+You are going to visit your grandmother on Mother's day. You want to give her two cakes. However, to get to her house you must cross seven bridges. At each bridge is a troll who demands ½ of all of your cakes as the price to pass. However, this troll, being a nice troll, feels bad and gives you back 1 of the cakes that he took.
+The puzzle to solve: How many cakes must you leave with to be able to give your grandmother 2 cakes
+
+Q:13------------A
+Try this Brain Bashing Challenge ?
+QUS-9
+A) A to G : 2, 3, 7, 6, 5, 1, 4	B) A to G : 1, 4, 5, 6, 2, 7, 3
+C) A to G : 5, 4, 7, 6, 3, 1, 2	D) None
+
+Q:14----------B
+QUS-10
+A) 12	B) 15
+C) 17	D) 19
+
+Q:15----D
+Guess the Missing number in the Number Challenge ?
+QUS-11
+A) 8	B) 32
+C) 44	D) 64
+
+Q:16----------B
+Solve the math puzzle given below?
+QUS-12
+A) 14	B) 10
+C) 9	D) 8
+
+Q:17---------A
+In a Certain Country 1/2 of 5 = 3. If the same proportion holds, what is the value of 1/3 of 10 ?
+A) 4	B) 6
+C) 8	D) 10
+ 
+Q:18----------(Q-18)
+What 5 - digit number has the following features :
+If we put the numeral 1 at the beginning, we get a number three times smaller than if we put the numeral 1 at the end of the number?
+
+Q:19-------------(Q-19)
+Riddle
+How can you add eight 8's to get the number 1,000? (only use addition)
+
+Q:20-----------B
+Crack this Logical thinking Math Puzzle?
+QUS-13
+A) 9	B) 8
+C) 7	D) 6
+
+Q:21----------(Q-21)
+Puzzle : Identical Balls
+There are 8 identical balls. In that one of the ball is overweight. There are only two chances to weigh in the weighing machine. How to find the overweight ball?
+
+Q:22------C
+Following the same logic, crack this mathematical puzzle ?
+QUS-14
+A) 4	B) 2
+C) 1	D) 3
+
+Q:23---------------D
+Solve the Riddle?
+QUS-15
+A) 79 hrs	B) 72 hrs
+C) 52 hrs	D) 18 hrs
+
+Q:24--------------C
+Math Challenge
+QUS-16
+find the number maths puzzle
+A) 7	B) 44
+C) 4	D) 33
+
+Q:25-------(Q-25)
+Replace each letter for a unique digit so that the equation is correct
+QUS-17
+
+Q:26--------C
+What is the Probability of all cars not clashing each other ?
+QUS-18
+A) 1/8	B) 0
+C) 1/4	D) 1
+
+Q:27-----------(Q-27)
+In a certain city, 5% of all the persons in town have unlisted phone numbers. If you select 100 names at random from that city's phone directory, how many people selected will have unlisted phone numbers?
+
+Q:28--------(Q-28)
+Puzzle : Bridge Crossing
+Jim, Jeanne, Louis and Anne wants to cross the bridge at night. They have only one torch light with them. Only two can cross the bridge at a time. They need torch light to cross the bridge. Each of them walks at a different speed. Jim needs 1 minute, Jeanne needs 2 minutes, Louis needs 5 minutes and Anne needs 10 minutes. A pair must walk together at the rate of the slower person. How these people can cross the bridge within 17 minutes?
+
+Q:29----------(Q-29)
+Solve this logical Math puzzle?
+QUS-19
+
+Q:30------------C
+How many times can you subtract 10 from 100?
+A) 9 times	B) 10 times
+C) 1 time	D) 0 times
+
+Q:31--------------D
+What is my PIN number ?
+QUS-20
+A) 93714	B) 42789
+C) 36671	D) 93747
+ 
+Q:32---------B
+Find the ODD number ?
+QUS-21
+A) 42	B) 142
+C) 119	D) 21
+
+Q:33-----------
+Can you slove this Maths Puzzle?
+
+maths_puzzle1537500715.jpg image
+
+A) 12	B) 6
+C) 3	D) 1
+ View Answer Report Error Discuss
+Filed Under: Math Puzzles
+Exam Prep: AIEEE , Bank Exams , CAT , GATE , GRE
+Job Role: Analyst , Bank Clerk , Bank PO
+143841 
+Q:
+Puzzle : Blueberries and Cups
+
+Maria have some blueberries and some cups. If she put 9 blueberries into each cup she will have two cups left. If she put 6 blueberries into each cup she will have three blueberries left over.
+
+ View answer Workspace Report Error Discuss
+Subject: Math Puzzles
+103709 
+
+ 
+Q:
+Puzzle : Sequence of numbers
+
+Sequence of numbers are 1, 11, 21, 1211, 111221. What will be the next one in the above sequence?
+
+ View answer Workspace Report Error Discuss
+Subject: Math Puzzles
+133686 
+Q:
+Solve the Puzzle?
+
+mathpuzzle1525339524.jpg image
+
+ View answer Workspace Report Error Discuss
+Subject: Math Puzzles Exam Prep: AIEEE , Bank Exams , CAT , GATE , GRE
+Job Role: Analyst , Bank Clerk , Bank PO
+83547 
+
+ 
+Q:
+Solve the MathPuzzle Challenge ?
+
+21728536_1414818525291914_2403155789974071436_n1505380084.jpg image
+
+A) 4!	B) 5!
+C) 6!	D) Can't be determined
+ View Answer Report Error Discuss
+Filed Under: Math Puzzles
+Exam Prep: AIEEE , Bank Exams , CAT , GATE
+Job Role: Bank Clerk , Bank PO
+103394 
+Q:
+Find the missing number in the following puzzle?
+
+ 
+
+
+
+A) 86	B) 98
+C) 104	D) 112
+ View Answer Report Error Discuss
+Filed Under: Math Puzzles
+Exam Prep: Bank Exams
+203215 
+
+ 
+Q:
+Solve this Math Puzzle?
+
+math_puzzle11533899278.jpg image
+
+A) 36	B) 72
+C) 84	D) 96
+ View Answer Report Error Discuss
+Filed Under: Math Puzzles
+Exam Prep: AIEEE , Bank Exams , CAT , GATE
+Job Role: Analyst , Bank Clerk , Bank PO
+73181 
+Q:
+Crack the Logical #MathPuzzle?
+
+24131501_1487128788060887_7609767785986555556_n1512621550.jpg image
