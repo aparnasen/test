@@ -7,7 +7,7 @@
     <link rel="stylesheet" type="text/css" href="CSS/registration.css">   
     <script type="text/javascript" src="JS/registration.js"></script>
 </head>
-<body>
+<body onload="captcha()">
     
    <div class="header">
         <img src="image/logo.jpg">
@@ -178,7 +178,7 @@
                                 <canvas id="canvas"></canvas>
                             </td>
                             <td>
-                                <button id="" onclick="captchaReload();">
+                                <button id="" onclick="captcha();">
                                 <img src="image/reload.png" id="re">
                                 </button>
                             </td>
@@ -190,7 +190,7 @@
                         </tr>
                         <tr>
                             <td>
-                                <button type="button" name="val" id="val" onclick="captchaMatch();">Save & Proceed</button>
+                                <button type="button" name="val" id="val" onclick="ValidCaptcha();">Save & Proceed</button>
                             </td>
                         </tr>
                     </table>
